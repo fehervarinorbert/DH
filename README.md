@@ -3,6 +3,7 @@
 This repository contains all UI tests for this project.
 
 You can find the test.js file under cypress/integration/DH_TechTask-tests/
+
 You can find the DH_TechTask-tests.feature file under cypress/integration/
 
 ## Cypress test and open
