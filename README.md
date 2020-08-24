@@ -13,11 +13,13 @@ In order to run the tests with the latest chrome browser you need to:
 2. Clone the repository to your computer.
 3. Run the tests:
 
-    a) in Command Line:    
+    a) in Command Line:
+    
             - Navigate into the cloned folder on your computer.
             - npx cypress run --browser chrome
             
     b) in cypress application with desired browser:
+    
             - in Command line Navigate into the cloned folder on your computer.
             - npx cypress open
             
